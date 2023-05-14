@@ -1,0 +1,12 @@
+*{
+    /*Margin separa os elementos externos, exemplo: separa duas divs(elementos)*/
+    margin: 0;
+    /*O padding separa os elementos internos dentro de um elemento, exemplo: separa os elementos(elemento interno) dentro de uma div(elemento)*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    /*Retira a bolinha padrão da lista*/
+    list-style-type: none;
+}

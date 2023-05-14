@@ -1,0 +1,76 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+} 
+.logo {
+    width: 2rem;
+}
+.imagem-botao {
+    width: 2rem;  
+    height: 2em;
+}
+/*
+main {
+
+}
+
+.listagem-pokemon {
+
+}
+
+.cartao-pokemon {
+
+}
+
+.informacoes {
+
+}
+
+.gif {
+
+}
+
+.descricao {
+
+}
+
+.tipos {
+
+}
+
+.grama{
+
+}
+
+.veneno {
+
+}
+
+.fogo {
+
+}
+
+.voador {
+
+}
+
+.agua {
+
+}
+
+.inseto {
+
+}
+
+.normal {
+
+}
+
+.eletrico {
+
+}
+*/
